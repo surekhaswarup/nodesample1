@@ -1,0 +1,11 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app4.js",
+  "scripts": {
+    "myprog": "nodemon app4.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
